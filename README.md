@@ -11,7 +11,7 @@
 <html>
 <body>
 
-<h2>HTML Image</h2>
+
 <img src="https://arpanneupane.com/static/media/home-image.3693311f.gif" alt="Flowers in Chania" width="460" height="345">
 
 </body>
