@@ -2,6 +2,25 @@
 
 <h3 align="center">A passionate frontend developer from Bangladesh 🇧🇩</h3>
 
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>HTML Image</h2>
+<img src=<!DOCTYPE html>
+<html>
+<body>
+
+<h2>HTML Image</h2>
+<img src="https://arpanneupane.com/static/media/home-image.3693311f.gif" alt="Flowers in Chania" width="460" height="345">
+
+</body>
+</html>
+
+
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=white9shadow&label=Profile%20views&color=0e75b6&style=flat" alt="white9shadow" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=white9shadow" alt="white9shadow" /></a> </p>
