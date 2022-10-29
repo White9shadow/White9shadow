@@ -2,11 +2,11 @@
 
 <h3 align="center">A passionate frontend developer from Bangladesh 🇧🇩</h3>
 
-<!DOCTYPE html>
-<html>
-<body>
 
-<h2>HTML Image</h2>
+
+
+
+
 <img src=<!DOCTYPE html>
 <html>
 <body>
