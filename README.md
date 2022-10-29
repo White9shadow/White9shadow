@@ -1,11 +1,11 @@
-<h1 align="center">Hey Brother revWhiteShadow</h1>
+<h1 align="center">Hey Brother This is revWhiteShadow</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh 🇧🇩</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=white9shadow&label=Profile%20views&color=0e75b6&style=flat" alt="white9shadow" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=white9shadow" alt="white9shadow" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/revwhiteshadow" target="blank"><img src="https://img.shields.io/twitter/follow/revwhiteshadow?logo=twitter&style=for-the-badge" alt="revwhiteshadow" /></a> </p>
+<p align="left"> <a href="https://twitter.com/emamnipu" target="blank"><img src="https://img.shields.io/twitter/follow/revwhiteshadow?logo=twitter&style=for-the-badge" alt="revwhiteshadow" /></a> </p>
 
 - 🔭 I’m currently working on [GODSPEED MODE Magisk Module](https://www.google.com/search?q=site%3Ahttps%3A%2F%2Fwww.godtspeed.xyz%2F2022%2F09%2Fgodspeed-resurrect-of-madness-beta3.html&oq=site%3Ahttps%3A%2F%2Fwww.godtspeed.xyz%2F2022%2F09%2Fgodspeed-resurrect-of-madness-beta3.html&aqs=chrome..69i57j69i58.3271j0j4&client=ms-unknown&sourceid=chrome-mobile&ie=UTF-8)
 
