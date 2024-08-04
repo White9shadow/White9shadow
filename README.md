@@ -25,7 +25,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=white9shadow" alt="white9shadow" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/emam_nipu" target="blank"><img src="https://img.shields.io/twitter/follow/emam_nipu?logo=twitter&style=for-the-badge" alt="emam_nipu" /></a> </p>
+
 
 - 🔭 I’m currently working on [GODSPEED MODE Magisk Module](https://www.google.com/search?q=site%3Ahttps%3A%2F%2Fwww.godtspeed.xyz%2F2022%2F09%2Fgodspeed-resurrect-of-madness-beta3.html&oq=site%3Ahttps%3A%2F%2Fwww.godtspeed.xyz%2F2022%2F09%2Fgodspeed-resurrect-of-madness-beta3.html&aqs=chrome..69i57j69i58.3271j0j4&client=ms-unknown&sourceid=chrome-mobile&ie=UTF-8)
 
@@ -57,9 +57,9 @@
 
 <p align="left">
 
-<a href="https://twitter.com/emam_nipu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="emam_nipu" height="30" width="40" /></a>
 
-<a href="https://www.youtube.com/c/https://youtube.com/c/whiteshadowgameera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/c/whiteshadowgameera" height="30" width="40" /></a>
+
+
 
 <a href="/https://www.google.com/search?q=site%3ahttps%3a%2f%2fwww.godtspeed.xyz%2f2022%2f09%2fgodspeed-resurrect-of-madness-beta3.html&oq=site%3ahttps%3a%2f%2fwww.godtspeed.xyz%2f2022%2f09%2fgodspeed-resurrect-of-madness-beta3.html&aqs=chrome..69i57j69i58.3271j0j4&client=ms-unknown&sourceid=chrome-mobile&ie=utf-8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://www.google.com/search?q=site%3ahttps%3a%2f%2fwww.godtspeed.xyz%2f2022%2f09%2fgodspeed-resurrect-of-madness-beta3.html&oq=site%3ahttps%3a%2f%2fwww.godtspeed.xyz%2f2022%2f09%2fgodspeed-resurrect-of-madness-beta3.html&aqs=chrome..69i57j69i58.3271j0j4&client=ms-unknown&sourceid=chrome-mobile&ie=utf-8" height="30" width="40" /></a>
 
