@@ -1,20 +1,17 @@
-# These are supported funding model platforms
-
-github: # Replace with up to 4 GitHub Sponsors-enabled usernames e.g., [user1, user2]
-patreon: # Replace with a single Patreon username
-ko_fi: # Replace with a single Ko-fi username
+github: []  # Replace with up to 4 GitHub Sponsors-enabled usernames e.g., [user1, user2]
+patreon: ""  # Replace with a single Patreon username
+ko_fi: ""  # Replace with a single Ko-fi username
 custom1: ['https://paypal.me/revGSM']
 custom2: ['https://pcsx2.gitlab.io']
-custom2: ['https://pcgame.gitlab.io']
-custom3: ['https://retroarchemu.gitlab.io']
-custom4: ['https://AetherSX2EmuPS2.gitlab.io']
-custom5: ['https://citraemulator.gitlab.io']
-custom6: ['https://DraSticDSEmulator.gitlab.io']
-custom7: ['https://kernelsu.gitlab.io']
-custom8: ['https://magiskmodule.gitlab.io']
-custom9: ['https://majorgeeks.gitlab.io']
-custom10: ['https://makeuseof.gitlab.io']
-custom11: ['https://OceanofGames.gitlab.io']
-custom12: ['https://pspemu.gitlab.io']
+custom3: ['https://pcgame.gitlab.io']
+custom4: ['https://retroarchemu.gitlab.io']
+custom5: ['https://AetherSX2EmuPS2.gitlab.io']
+custom6: ['https://citraemulator.gitlab.io']
+custom7: ['https://DraSticDSEmulator.gitlab.io']
+custom8: ['https://kernelsu.gitlab.io']
+custom9: ['https://magiskmodule.gitlab.io']
+custom10: ['https://majorgeeks.gitlab.io']
+custom11: ['https://makeuseof.gitlab.io']
+custom12: ['https://OceanofGames.gitlab.io']
+custom13: ['https://pspemu.gitlab.io']
 custom14: ['https://rpcs3.gitlab.io']
-
