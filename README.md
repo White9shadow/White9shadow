@@ -75,9 +75,11 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=white9shadow&" alt="white9shadow" /></p>
 <h1>Our Other products</h1>
-  <li><a href="https://pcgame.gitlab.io">PC Game Emulator</a></li>
         <li><a href="https://retroarchemu.gitlab.io">RetroArch Emulator</a></li>
         <li><a href="https://pcsx2.gitlab.io">Pcsx2</a></li>
+  <li><a href="https://pcgame.gitlab.io">PC Game Emulator</a></li>
+
+<li><a href="https://magiskmodule.gitlab.io">Magisk Module</a></li>
         <li><a href="https://citraemulator.gitlab.io">Citra Emulator</a></li>
         <li><a href="https://DraSticDSEmulator.gitlab.io">DraStic DS Emulator</a></li>
         <li><a href="https://kernelsu.gitlab.io">KernelSU</a></li>
