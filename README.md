@@ -1,4 +1,4 @@
-<h1 align="center">Hey Brother this is revWhiteShadow</h1>
+<h1 align="center">Hey Brother this is <a href="https://revwhiteshadow.gitlab.io/">revWhiteShadow</a></h1>
 
 <h3 align="center">A passionate frontend developer from Bangladesh 🇧🇩</h3>
 
@@ -8,15 +8,7 @@
 
 
 
-<html>
-<body>
-
-
 <img src="https://arpanneupane.com/static/media/home-image.3693311f.gif" alt="Flowers in Chania" width="460" height="345">
-
-</body>
-</html>
-
 
 
 
@@ -48,10 +40,7 @@
 - ⚡ Fun fact **Imma Toxic**
 
 ### Blogs posts
-
-<!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:END -->
+<a href="https://revwhiteshadow.gitlab.io/">Blog</a>
 
 <h3 align="left">Connect with me:</h3>
 
